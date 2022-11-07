@@ -35,7 +35,6 @@ export const FunctionCounter = () => {
     )
 }
 
-
 const styles = StyleSheet.create({
     background: {
         backgroundColor: "#8C7371",
